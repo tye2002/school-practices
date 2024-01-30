@@ -1,0 +1,5 @@
+ 1  2  Coza  4  Loza  Coza  Woza  8  Coza  Loza  11 
+ Coza  13  Woza  Coza  16  17  Coza  19  Loza  Coza  22 
+ 23  Coza  Loza  26  Coza  Woza  29  Coza  31  32  Coza 
+ 34  Loza  Coza  37  38  Coza  Loza  41  Coza  43  44 
+ Coza  46  47  Coza  Woza 
